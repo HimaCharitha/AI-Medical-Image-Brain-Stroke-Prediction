@@ -1,4 +1,4 @@
-### AI-Medical-Image-Brain-Stroke-Prediction
+# AI-Medical-Image-Brain-Stroke-Prediction
 
 BrainStrokePredictionAI is a deep learning project focused on using medical image analysis techniques to predict brain strokes from imaging data. This project utilizes Python, TensorFlow, or PyTorch, along with medical imaging datasets specific to brain images.
 
